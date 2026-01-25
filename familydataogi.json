@@ -9,7 +9,7 @@
       "father": "Q314773",
       "mother": "Q243011",
       "spouses": ["Q263454"],
-      "children": ["Q5271122", "Q183105", "Q2405785", "Q13408289", "Q508525"]
+      "children": ["Q5271122"]
     },
     "main": true
   },
@@ -20,19 +20,23 @@
       "gender": "F"
     },
     "rels": {
+      "father": null,
+      "mother": null,
       "spouses": ["Q8016"],
-      "children": ["Q183105", "Q13408289", "Q508525", "Q5271122", "Q2405785"]
+      "children": ["Q5271122"]
     }
   },
   {
-    "id": "Q183105",
+    "id": "Q5271122",
     "data": {
-      "label": "Randolph Churchill",
-      "gender": "M"
+      "label": "Diana Churchill",
+      "gender": "F"
     },
     "rels": {
       "father": "Q8016",
-      "mother": "Q263454"
+      "mother": "Q263454",
+      "spouses": [],
+      "children": []
     }
   }
 ]

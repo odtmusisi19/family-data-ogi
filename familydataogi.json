@@ -2,12 +2,14 @@
   {
     "id": "Q8016",
     "data": {
-      "label": "Winston Churchill",
-      "gender": "M"
+      "data": {
+        "label": "Winston Churchill",
+        "gender": "M"
+      }
     },
     "rels": {
-      "father": "Q314773",
-      "mother": "Q243011",
+      "father": null,
+      "mother": null,
       "spouses": ["Q263454"],
       "children": ["Q5271122"]
     },
@@ -16,27 +18,33 @@
   {
     "id": "Q263454",
     "data": {
-      "label": "Clementine Churchill",
-      "gender": "F"
+      "data": {
+        "label": "Clementine Churchill",
+        "gender": "F"
+      }
     },
     "rels": {
       "father": null,
       "mother": null,
       "spouses": ["Q8016"],
       "children": ["Q5271122"]
-    }
+    },
+    "main": false
   },
   {
     "id": "Q5271122",
     "data": {
-      "label": "Diana Churchill",
-      "gender": "F"
+      "data": {
+        "label": "Diana Churchill",
+        "gender": "F"
+      }
     },
     "rels": {
       "father": "Q8016",
       "mother": "Q263454",
       "spouses": [],
       "children": []
-    }
+    },
+    "main": false
   }
 ]

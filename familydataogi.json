@@ -1,54 +1,129 @@
 [
   {
-    "id": "Q8016",
+    "id": "Q868",
     "data": {
-      "data": {
-        "label": "Winston Churchill",
-        "avatar":"https://avatars.githubusercontent.com/u/64591304?v=4",
-        "gender": "M"
-      }
+      "fn": "Aristotelis",
+      "ln": "",
+      "desc": "ancient Greek philosopher",
+      "label": "Aristotle",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
+      "gender": "M"
     },
     "rels": {
-      "father": null,
-      "mother": null,
-      "spouses": ["Q263454"],
-      "children": ["Q5271122"]
-    },
-    "main": true
+      "spouses": [
+        "Q462582",
+        "Q1987698"
+      ],
+      "children": [
+        "Q2217419"
+      ],
+      "parents": [
+        "Q3050463"
+      ]
+    }
   },
   {
-    "id": "Q263454",
+    "id": "Q462582",
     "data": {
-      "data": {
-        "label": "Clementine Churchill",
-        "avatar":"https://avatars.githubusercontent.com/u/64591304?v=4",
-
-        "gender": "F"
-      }
+      "fn": "",
+      "ln": "",
+      "desc": "Greek biologist and embryologist",
+      "label": "Pythias",
+      "image": null,
+      "gender": "F"
     },
     "rels": {
-      "father": null,
-      "mother": null,
-      "spouses": ["Q8016"],
-      "children": ["Q5271122"]
-    },
-    "main": false
+      "spouses": [
+        "Q868"
+      ],
+      "parents": [
+        "Q948620"
+      ]
+    }
   },
   {
-    "id": "Q5271122",
+    "id": "Q2217419",
     "data": {
-      "data": {
-        "label": "Diana Churchill",
-        "avatar":"https://avatars.githubusercontent.com/u/64591304?v=4",
-        "gender": "F"
-      }
+      "fn": "",
+      "ln": "",
+      "desc": "Ancient Greek philosopher, son of Aristotle",
+      "label": "Nicomachus",
+      "image": null,
+      "gender": "M"
     },
     "rels": {
-      "father": "Q8016",
-      "mother": "Q263454",
-      "spouses": [],
-      "children": []
+      "parents": [
+        "Q868",
+        "Q1987698"
+      ]
+    }
+  },
+  {
+    "id": "Q3050463",
+    "data": {
+      "fn": "",
+      "ln": "",
+      "desc": "father of Aristotle",
+      "label": "Nicomachus",
+      "image": null,
+      "gender": "M"
     },
-    "main": false
+    "rels": {
+      "children": [
+        "Q868",
+        "Q4790690"
+      ]
+    }
+  },
+  {
+    "id": "Q1987698",
+    "data": {
+      "fn": "",
+      "ln": "",
+      "desc": "Aristotle's lover",
+      "label": "Herpyllis",
+      "image": null,
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": [
+        "Q868"
+      ],
+      "children": [
+        "Q2217419"
+      ]
+    }
+  },
+  {
+    "id": "Q948620",
+    "data": {
+      "fn": "",
+      "ln": "",
+      "desc": "Aristotle's father in law",
+      "label": "Hermias of Atarneus",
+      "image": null,
+      "gender": "M"
+    },
+    "rels": {
+      "children": [
+        "Q462582"
+      ]
+    }
+  },
+  {
+    "id": "Q4790690",
+    "data": {
+      "fn": "",
+      "ln": "",
+      "desc": "sister of Aristotle",
+      "label": "Arimneste",
+      "image": null,
+      "gender": "F"
+    },
+    "rels": {
+      "parents": [
+        "Q3050463"
+      ]
+    }
   }
 ]

@@ -1,21 +1,38 @@
-{
-    "id": "Q151305",
+[
+  {
+    "id": "Q8016",
     "data": {
-      "fn": "Christian",
-      "ln": "",
-      "desc": "King of Denmark from 1863 to 1906",
-      "label": "Christian IX of Denmark",
-      "avatar": "https://upload.wikimedia.org/wikipedia/commons/3/33/Christian_IX_af_Henrik_Olrik.jpg",
+      "label": "Winston Churchill",
       "gender": "M"
     },
     "rels": {
-      "spouses": [
-        "Q166028"
-      ],
-      "children": [
-        "Q152260",
-        "Q17142"
-      ]
+      "father": "Q314773",
+      "mother": "Q243011",
+      "spouses": ["Q263454"],
+      "children": ["Q5271122", "Q183105", "Q2405785", "Q13408289", "Q508525"]
     },
-    "main": false
+    "main": true
+  },
+  {
+    "id": "Q263454",
+    "data": {
+      "label": "Clementine Churchill",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["Q8016"],
+      "children": ["Q183105", "Q13408289", "Q508525", "Q5271122", "Q2405785"]
+    }
+  },
+  {
+    "id": "Q183105",
+    "data": {
+      "label": "Randolph Churchill",
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q8016",
+      "mother": "Q263454"
+    }
   }
+]

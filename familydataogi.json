@@ -4,6 +4,7 @@
     "data": {
       "data": {
         "label": "Winston Churchill",
+         "avatar": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mary_Soames_%281965%29.jpg",
         "gender": "M"
       }
     },
@@ -20,6 +21,7 @@
     "data": {
       "data": {
         "label": "Clementine Churchill",
+         "avatar": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mary_Soames_%281965%29.jpg",
         "gender": "F"
       }
     },

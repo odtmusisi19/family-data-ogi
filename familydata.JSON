@@ -1,0 +1,510 @@
+[
+  {
+    "id": "Q508525",
+    "data": {
+      "fn": "Mary",
+      "ln": "Soames",
+      "desc": "British aristocrat, daughter of Winston Churchill and his wife Clementine (1922–2014)",
+      "label": "Mary Soames",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mary_Soames_%281965%29.jpg",
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q8016",
+      "mother": "Q263454",
+      "spouses": [
+        "Q336050"
+      ],
+      "children": [
+        "Q390192",
+        "Q3052477",
+        "Q3453283",
+        "Q13408312",
+        "Q75386090"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q13408289",
+    "data": {
+      "fn": "Marigold Frances",
+      "ln": "Churchill",
+      "desc": "daughter of Sir Winston Leonard Spencer-Churchill",
+      "label": "Marigold Churchill",
+      "avatar": null,
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q8016",
+      "mother": "Q263454",
+      "spouses": [],
+      "children": []
+    },
+    "main": false
+  },
+  {
+    "id": "Q2405785",
+    "data": {
+      "fn": "Sarah",
+      "ln": "Churchill",
+      "desc": "British actress and dancer (1914-1982)",
+      "label": "Sarah Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sarah_Churchill_in_Royal_Wedding.jpg",
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q8016",
+      "mother": "Q263454",
+      "spouses": [
+        "Q3557487",
+        "Q3133116",
+        "Q75386076"
+      ],
+      "children": []
+    },
+    "main": false
+  },
+  {
+    "id": "Q183105",
+    "data": {
+      "fn": "Randolph",
+      "ln": "Churchill",
+      "desc": "British politician, son of British Prime Minister Winston Churchill (1911-1968)",
+      "label": "Randolph Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Cecil_Beaton_Photographs-_Political_and_Military_Personalities%3B_Churchill%2C_Randolph_Frederick_Edward_Spencer_CBM1585.jpg",
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q8016",
+      "mother": "Q263454",
+      "spouses": [
+        "Q2723519",
+        "Q75386006"
+      ],
+      "children": [
+        "Q332528",
+        "Q2859344"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q5271122",
+    "data": {
+      "fn": "Diana",
+      "ln": "Churchill",
+      "desc": "daughter of Sir Winston Churchill (1909-1963)",
+      "label": "Diana Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Diana_Churchill_publ.jpg",
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q8016",
+      "mother": "Q263454",
+      "spouses": [
+        "Q203129",
+        "Q75386025"
+      ],
+      "children": [
+        "Q75386034",
+        "Q5346952",
+        "Q75386057"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q263454",
+    "data": {
+      "fn": "Clementine",
+      "ln": "Hozier",
+      "desc": "Wife of Winston Churchill and life peer (1885–1977)",
+      "label": "Clementine Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Clementine_Churchill_1915.jpg",
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q2004836",
+      "mother": "Q42083828",
+      "spouses": [
+        "Q8016"
+      ],
+      "children": [
+        "Q183105",
+        "Q13408289",
+        "Q508525",
+        "Q5271122",
+        "Q2405785"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q243011",
+    "data": {
+      "fn": "Jeanette",
+      "ln": "Jerome Churchill",
+      "desc": "American-born British mother of Winston Churchill (1854–1921)",
+      "label": "Lady Randolph Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lady_Randolph_Churchill%2C_by_Herbert_Rose_Barraud.jpg",
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q1819011",
+      "mother": "Q61750828",
+      "spouses": [
+        "Q314773",
+        "Q1465068",
+        "Q35160543"
+      ],
+      "children": [
+        "Q8016",
+        "Q721915"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q314773",
+    "data": {
+      "fn": "Randolph Henry",
+      "ln": "Churchill Spencer-Churchill",
+      "desc": "British politician, father of Winston Churchill (1849-1895)",
+      "label": "Lord Randolph Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lord_Randolph_Churchill.jpg",
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q333355",
+      "mother": "Q3749340",
+      "spouses": [
+        "Q243011"
+      ],
+      "children": [
+        "Q8016",
+        "Q721915"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q8016",
+    "data": {
+      "fn": "Winston Leonard",
+      "ln": "Spencer-Churchill Churchill",
+      "desc": "British statesman, soldier and writer (1874–1965)",
+      "label": "Winston Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg",
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q314773",
+      "mother": "Q243011",
+      "spouses": [
+        "Q263454"
+      ],
+      "children": [
+        "Q5271122",
+        "Q183105",
+        "Q2405785",
+        "Q13408289",
+        "Q508525"
+      ]
+    },
+    "main": true
+  },
+  {
+    "id": "Q152316",
+    "data": {
+      "fn": "Henry Charles Albert David",
+      "ln": "Wales Windsor",
+      "desc": "younger son of Charles III of the United Kingdom and Diana, Princess of Wales",
+      "label": "Prince Harry, Duke of Sussex",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Prince_Harry%2C_Duke_of_Sussex_2020_cropped_02.jpg",
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q43274",
+      "mother": "Q9685",
+      "spouses": [
+        "Q3304418"
+      ],
+      "children": [
+        "Q62938826",
+        "Q107125551"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q36812",
+    "data": {
+      "fn": "William Arthur Philip Louis",
+      "ln": "Windsor",
+      "desc": "heir apparent to the throne of the United Kingdom and 14 Commonwealth Realms",
+      "label": "William, Prince of Wales",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/d/df/Prince_of_Wales_in_Normandy_2024.jpg",
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q43274",
+      "mother": "Q9685",
+      "spouses": [
+        "Q10479"
+      ],
+      "children": [
+        "Q13590412",
+        "Q18002970",
+        "Q38668629"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q152239",
+    "data": {
+      "fn": "Camilla Rosemary",
+      "ln": "Shand Parker Bowles Windsor",
+      "desc": "Queen Consort of the United Kingdom since 2022",
+      "label": "Queen Camilla",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Queen_Camilla_in_Aotearoa_2019.jpg",
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q327457",
+      "mother": "Q17363684",
+      "spouses": [
+        "Q2221868",
+        "Q43274"
+      ],
+      "children": [
+        "Q3736070",
+        "Q3743314"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q9685",
+    "data": {
+      "fn": "Diana Frances",
+      "ln": "Spencer Mountbatten-Windsor",
+      "desc": "member of the British royal family and Princess of Wales (1961–1997)",
+      "label": "Diana, Princess of Wales",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Diana%2C_Princess_of_Wales_1997_%282%29_%28cropped%29.jpg",
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q593671",
+      "mother": "Q256893",
+      "spouses": [
+        "Q43274"
+      ],
+      "children": [
+        "Q36812",
+        "Q152316"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q9682",
+    "data": {
+      "fn": "Elizabeth Alexandra Mary",
+      "ln": "Windsor",
+      "desc": "Queen of the United Kingdom from 1952 to 2022",
+      "label": "Elizabeth II",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Queen_Elizabeth_II_in_March_2015.jpg",
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q280856",
+      "mother": "Q10633",
+      "spouses": [
+        "Q80976"
+      ],
+      "children": [
+        "Q43274",
+        "Q151754",
+        "Q153330",
+        "Q154920"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q80976",
+    "data": {
+      "fn": "Philip",
+      "ln": "Mountbatten",
+      "desc": "consort of Elizabeth II from 1952 to 2021",
+      "label": "Prince Philip, Duke of Edinburgh",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Duke_of_Edinburgh_33_Allan_Warren.jpg",
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q156531",
+      "mother": "Q116062",
+      "spouses": [
+        "Q9682"
+      ],
+      "children": [
+        "Q43274",
+        "Q151754",
+        "Q153330",
+        "Q154920"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q43274",
+    "data": {
+      "fn": "Charles Philip Arthur George",
+      "ln": "Mountbatten-Windsor",
+      "desc": "King of the United Kingdom and other Commonwealth realms since 2022",
+      "label": "Charles III",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg",
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q80976",
+      "mother": "Q9682",
+      "spouses": [
+        "Q9685",
+        "Q152239"
+      ],
+      "children": [
+        "Q36812",
+        "Q152316"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "Q122374054",
+    "data": {
+      "fn": "",
+      "ln": "Musck",
+      "desc": "son of Elon Musk and Grimes",
+      "label": "Tau Musk",
+      "avatar": null,
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q317521",
+      "mother": "Q117970",
+      "spouses": [],
+      "children": []
+    },
+    "main": false
+  },
+  {
+    "id": "Q111204042",
+    "data": {
+      "fn": "Exa Dark Sideræl",
+      "ln": "Musck",
+      "desc": "daughter of Elon Musk and Grimes",
+      "label": "Exa Musk",
+      "avatar": null,
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q317521",
+      "mother": "Q117970",
+      "spouses": [],
+      "children": []
+    },
+    "main": false
+  },
+  {
+    "id": "Q122374852",
+    "data": {
+      "fn": "",
+      "ln": "Musck",
+      "desc": "daughter of Elon Musk and Shivon Zilis",
+      "label": "Azure Musk",
+      "avatar": null,
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q317521",
+      "mother": "Q112957545",
+      "spouses": [],
+      "children": []
+    },
+    "main": false
+  },
+  {
+    "id": "Q122374820",
+    "data": {
+      "fn": "",
+      "ln": "Musck",
+      "desc": "son of Elon Musk and Shivon Zilis",
+      "label": "Strider Musk",
+      "avatar": null,
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q317521",
+      "mother": "Q112957545",
+      "spouses": [],
+      "children": []
+    },
+    "main": false
+  },
+  {
+    "id": "Q93418989",
+    "data": {
+      "fn": "X Æ A-Ⅻ",
+      "ln": "Musck",
+      "desc": "child of Grimes and Elon Musk",
+      "label": "X Æ A-Ⅻ Musk",
+      "avatar": null,
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q317521",
+      "mother": "Q117970",
+      "spouses": [],
+      "children": []
+    },
+    "main": false
+  },
+  {
+    "id": "Q97572429",
+    "data": {
+      "fn": "Kai",
+      "ln": "Musck",
+      "desc": "son of Elon Musk",
+      "label": "Kai Musk",
+      "avatar": null,
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q317521",
+      "mother": "Q6318376",
+      "spouses": [],
+      "children": []
+    },
+    "main": false
+  },
+  {
+    "id": "Q101675036",
+    "data": {
+      "fn": "John Saxon",
+      "ln": "Musck",
+      "desc": "son of Elon Musk",
+      "label": "Saxon Musk",
+      "avatar": null,
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q317521",
+      "mother": "Q6318376",
+      "spouses": [],
+      "children": []
+    },
+    "main": false
+  }]

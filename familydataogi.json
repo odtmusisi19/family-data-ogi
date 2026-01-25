@@ -1,18 +1,102 @@
 [
   {
-    "id": "Q43274",
+    "id": "Q8016",
     "data": {
-      "data": {
-        "label": "Charles III",
-        "gender": "M"
-      }
+      "fn": "Winston Leonard",
+      "ln": "Spencer-Churchill Churchill",
+      "desc": "British statesman, soldier and writer (1874–1965)",
+      "label": "Winston Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg",
+      "gender": "M"
     },
     "rels": {
-      "father": null,
-      "mother": null,
-      "spouses": [],
-      "children": []
+      "father": "Q314773",
+      "mother": "Q243011",
+      "spouses": ["Q263454"],
+      "children": ["Q5271122", "Q183105", "Q2405785", "Q13408289", "Q508525"]
     },
     "main": true
+  },
+  {
+    "id": "Q314773",
+    "data": {
+      "fn": "Randolph Henry",
+      "ln": "Churchill Spencer-Churchill",
+      "desc": "British politician, father of Winston Churchill (1849–1895)",
+      "label": "Lord Randolph Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/5/55/Lord_Randolph_Churchill.jpg",
+      "gender": "M"
+    },
+    "rels": {
+      "spouses": ["Q243011"],
+      "children": ["Q8016"]
+    },
+    "main": false
+  },
+  {
+    "id": "Q243011",
+    "data": {
+      "fn": "Jennie",
+      "ln": "Jerome",
+      "desc": "Mother of Winston Churchill",
+      "label": "Jennie Jerome",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jennie_Jerome.jpg",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["Q314773", "Q35160542", "Q35160543"],
+      "children": ["Q8016"]
+    },
+    "main": false
+  },
+  {
+    "id": "Q263454",
+    "data": {
+      "fn": "Clementine",
+      "ln": "Hozier",
+      "desc": "Wife of Winston Churchill",
+      "label": "Clementine Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Clementine_Churchill_1915.jpg",
+      "gender": "F"
+    },
+    "rels": {
+      "spouses": ["Q8016"],
+      "children": ["Q5271122", "Q183105", "Q2405785", "Q13408289", "Q508525"]
+    },
+    "main": false
+  },
+  {
+    "id": "Q183105",
+    "data": {
+      "fn": "Randolph",
+      "ln": "Churchill",
+      "desc": "British Army officer and author (1911–1968)",
+      "label": "Randolph Churchill",
+      "avatar": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Randolph_Churchill.jpg",
+      "gender": "M"
+    },
+    "rels": {
+      "father": "Q8016",
+      "mother": "Q263454",
+      "children": []
+    },
+    "main": false
+  },
+  {
+    "id": "Q5271122",
+    "data": {
+      "fn": "Diana",
+      "ln": "Churchill",
+      "desc": "Eldest daughter of Winston Churchill",
+      "label": "Diana Churchill",
+      "avatar": null,
+      "gender": "F"
+    },
+    "rels": {
+      "father": "Q8016",
+      "mother": "Q263454",
+      "children": []
+    },
+    "main": false
   }
 ]

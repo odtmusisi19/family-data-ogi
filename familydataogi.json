@@ -1,52 +1,18 @@
 [
   {
-    "id": "Q8016",
+    "id": "Q43274",
     "data": {
       "data": {
-        "label": "Winston Churchill",
-         "avatar": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mary_Soames_%281965%29.jpg",
+        "label": "Charles III",
         "gender": "M"
       }
     },
     "rels": {
       "father": null,
       "mother": null,
-      "spouses": ["Q263454"],
-      "children": ["Q5271122"]
-    },
-    "main": true
-  },
-  {
-    "id": "Q263454",
-    "data": {
-      "data": {
-        "label": "Clementine Churchill",
-         "avatar": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mary_Soames_%281965%29.jpg",
-        "gender": "F"
-      }
-    },
-    "rels": {
-      "father": null,
-      "mother": null,
-      "spouses": ["Q8016"],
-      "children": ["Q5271122"]
-    },
-    "main": false
-  },
-  {
-    "id": "Q5271122",
-    "data": {
-      "data": {
-        "label": "Diana Churchill",
-        "gender": "F"
-      }
-    },
-    "rels": {
-      "father": "Q8016",
-      "mother": "Q263454",
       "spouses": [],
       "children": []
     },
-    "main": false
+    "main": true
   }
 ]

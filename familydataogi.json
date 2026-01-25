@@ -6,7 +6,6 @@
       "ln": "Spencer-Churchill Churchill",
       "desc": "British statesman, soldier and writer (1874–1965)",
       "label": "Winston Churchill",
-      "avatar": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg",
       "gender": "M"
     },
     "rels": {
@@ -24,7 +23,6 @@
       "ln": "Churchill Spencer-Churchill",
       "desc": "British politician, father of Winston Churchill (1849–1895)",
       "label": "Lord Randolph Churchill",
-      "avatar": "https://upload.wikimedia.org/wikipedia/commons/5/55/Lord_Randolph_Churchill.jpg",
       "gender": "M"
     },
     "rels": {
@@ -56,7 +54,6 @@
       "ln": "Hozier",
       "desc": "Wife of Winston Churchill",
       "label": "Clementine Churchill",
-      "avatar": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Clementine_Churchill_1915.jpg",
       "gender": "F"
     },
     "rels": {
@@ -72,7 +69,6 @@
       "ln": "Churchill",
       "desc": "British Army officer and author (1911–1968)",
       "label": "Randolph Churchill",
-      "avatar": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Randolph_Churchill.jpg",
       "gender": "M"
     },
     "rels": {

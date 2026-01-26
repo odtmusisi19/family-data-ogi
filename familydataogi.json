@@ -348,7 +348,7 @@
       "gender": "M",
       "first name": "Bapuk Kanyang mama",
       "last name": "",
-      "birthday": "1930",
+      "birthday": "",
       "avatar": ""
     },
     "rels": {
@@ -371,7 +371,7 @@
       "gender": "F",
       "first name": "Bapuk Kanyang Nina",
       "last name": "",
-      "birthday": "1940",
+      "birthday": "",
       "avatar": ""
     },
     "rels": {
@@ -436,13 +436,19 @@
       "gender": "F",
       "first name": "Bapuk Maeng",
       "last name": "",
-      "birthday": "1999",
+      "birthday": "",
       "avatar": ""
     },
     "rels": {
       "parents": [
         "f6aa8771-6326-4813-a99d-6724471cd775",
         "f6905f1c-f769-4861-96f0-8dacca31c4e5"
+      ],
+      "spouses": [
+        "f151c8ab-bbdb-4948-a208-833ae2510421"
+      ],
+      "children": [
+        "a2b4bad5-77f3-4d83-9a23-903167cfcffc"
       ]
     }
   },
@@ -452,13 +458,21 @@
       "gender": "F",
       "first name": "Bapuk Ami",
       "last name": "",
-      "birthday": "1999",
+      "birthday": "",
       "avatar": ""
     },
     "rels": {
       "parents": [
         "f6aa8771-6326-4813-a99d-6724471cd775",
         "f6905f1c-f769-4861-96f0-8dacca31c4e5"
+      ],
+      "spouses": [
+        "1923132e-7929-4a32-bc1c-956d21d2925f"
+      ],
+      "children": [
+        "89b386bb-e190-4638-ba0e-3815659879e4",
+        "d0211a19-eede-409e-b30f-2fe17b777dc0",
+        "19485503-858b-4cc7-b002-4118ffe795dc"
       ]
     }
   },
@@ -1720,6 +1734,148 @@
       "parents": [
         "2f93ac7c-c9c3-497c-ac13-6c5743156888",
         "ecd59033-b451-4bc8-a422-730f0b102b04"
+      ]
+    }
+  },
+  {
+    "id": "f151c8ab-bbdb-4948-a208-833ae2510421",
+    "data": {
+      "gender": "M",
+      "first name": "Unknown",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "a2b4bad5-77f3-4d83-9a23-903167cfcffc"
+      ],
+      "spouses": [
+        "1f132925-9e6c-4dde-a564-fff1bbeaac9e"
+      ]
+    }
+  },
+  {
+    "id": "a2b4bad5-77f3-4d83-9a23-903167cfcffc",
+    "data": {
+      "gender": "F",
+      "first name": "Maeng Inak andre",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "1f132925-9e6c-4dde-a564-fff1bbeaac9e",
+        "f151c8ab-bbdb-4948-a208-833ae2510421"
+      ],
+      "children": [
+        "117ba867-bb8c-4300-8223-f15c4b35a61c"
+      ],
+      "spouses": [
+        "44f8dc6c-feba-4d01-bd72-d0dd6ad63f41"
+      ]
+    }
+  },
+  {
+    "id": "44f8dc6c-feba-4d01-bd72-d0dd6ad63f41",
+    "data": {
+      "gender": "M",
+      "first name": "Amak Andre",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "117ba867-bb8c-4300-8223-f15c4b35a61c"
+      ],
+      "spouses": [
+        "a2b4bad5-77f3-4d83-9a23-903167cfcffc"
+      ]
+    }
+  },
+  {
+    "id": "117ba867-bb8c-4300-8223-f15c4b35a61c",
+    "data": {
+      "gender": "M",
+      "first name": "Andre Irawan Ogostan",
+      "last name": "",
+      "birthday": "2000",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "a2b4bad5-77f3-4d83-9a23-903167cfcffc",
+        "44f8dc6c-feba-4d01-bd72-d0dd6ad63f41"
+      ]
+    }
+  },
+  {
+    "id": "1923132e-7929-4a32-bc1c-956d21d2925f",
+    "data": {
+      "gender": "M",
+      "first name": "Bapuk ami mama",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "89b386bb-e190-4638-ba0e-3815659879e4",
+        "d0211a19-eede-409e-b30f-2fe17b777dc0",
+        "19485503-858b-4cc7-b002-4118ffe795dc"
+      ],
+      "spouses": [
+        "c99875fd-d8a5-45d8-9fcd-bf12cf4fb69a"
+      ]
+    }
+  },
+  {
+    "id": "89b386bb-e190-4638-ba0e-3815659879e4",
+    "data": {
+      "gender": "M",
+      "first name": "Ami",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "1923132e-7929-4a32-bc1c-956d21d2925f",
+        "c99875fd-d8a5-45d8-9fcd-bf12cf4fb69a"
+      ]
+    }
+  },
+  {
+    "id": "d0211a19-eede-409e-b30f-2fe17b777dc0",
+    "data": {
+      "gender": "M",
+      "first name": "Isnadi Lhocana",
+      "last name": "",
+      "birthday": "",
+      "avatar": "https://i.imgur.com/J6rh0dr.png"
+    },
+    "rels": {
+      "parents": [
+        "1923132e-7929-4a32-bc1c-956d21d2925f",
+        "c99875fd-d8a5-45d8-9fcd-bf12cf4fb69a"
+      ]
+    }
+  },
+  {
+    "id": "19485503-858b-4cc7-b002-4118ffe795dc",
+    "data": {
+      "gender": "F",
+      "first name": "Juwica Cesia",
+      "last name": "",
+      "birthday": "",
+      "avatar": "https://i.imgur.com/MvaHlpY.png"
+    },
+    "rels": {
+      "parents": [
+        "1923132e-7929-4a32-bc1c-956d21d2925f",
+        "c99875fd-d8a5-45d8-9fcd-bf12cf4fb69a"
       ]
     }
   }

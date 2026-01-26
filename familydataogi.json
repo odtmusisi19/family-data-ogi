@@ -1,128 +1,907 @@
 [
   {
-    "id": "Q868",
+    "id": "0",
+    "rels": {
+      "parents": [
+        "a69c907f-fe58-4d39-8a9e-efd03159fce9",
+        "8536ea20-5240-450a-987e-0da28fa79c78"
+      ],
+      "spouses": [
+        "0ddfc705-4688-465f-9a45-500acf4ed5c3"
+      ],
+      "children": [
+        "18110d42-a660-4736-bb2c-7269c1b01513",
+        "8d477245-be15-4ac7-b0df-3f38e213f401"
+      ]
+    },
     "data": {
-      "fn": "Aristotelis",
-      "ln": "",
-      "desc": "ancient Greek philosopher",
-      "label": "Aristotle",
-      "avatar": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
+      "first name": "Satriadi",
+      "last name": "Gotama",
+      "birthday": "1979",
+      "avatar": "https://i.imgur.com/ZG7gVqZ.png",
       "gender": "M"
+    }
+  },
+  {
+    "id": "a69c907f-fe58-4d39-8a9e-efd03159fce9",
+    "data": {
+      "gender": "M",
+      "first name": "Rasilah",
+      "last name": "",
+      "birthday": "1970",
+      "avatar": "https://i.imgur.com/38EKGsM.png"
+    },
+    "rels": {
+      "parents": [
+        "f6aa8771-6326-4813-a99d-6724471cd775",
+        "f6905f1c-f769-4861-96f0-8dacca31c4e5"
+      ],
+      "children": [
+        "0"
+      ],
+      "spouses": [
+        "8536ea20-5240-450a-987e-0da28fa79c78"
+      ]
+    }
+  },
+  {
+    "id": "8536ea20-5240-450a-987e-0da28fa79c78",
+    "data": {
+      "gender": "F",
+      "first name": "Juminten",
+      "last name": "",
+      "birthday": "1980",
+      "avatar": "https://i.imgur.com/vu5VMPb.png"
+    },
+    "rels": {
+      "children": [
+        "0"
+      ],
+      "spouses": [
+        "a69c907f-fe58-4d39-8a9e-efd03159fce9"
+      ]
+    }
+  },
+  {
+    "id": "0ddfc705-4688-465f-9a45-500acf4ed5c3",
+    "data": {
+      "gender": "F",
+      "first name": "Sahni",
+      "last name": "",
+      "birthday": "1980",
+      "avatar": "https://i.imgur.com/ZOGi0D1.png"
+    },
+    "rels": {
+      "parents": [
+        "057d1d02-c546-41f7-af06-b2c6353ea674",
+        "0236e877-d62b-43bc-b274-288d0cfeaacc"
+      ],
+      "children": [
+        "18110d42-a660-4736-bb2c-7269c1b01513",
+        "8d477245-be15-4ac7-b0df-3f38e213f401"
+      ],
+      "spouses": [
+        "0"
+      ]
+    }
+  },
+  {
+    "id": "18110d42-a660-4736-bb2c-7269c1b01513",
+    "data": {
+      "gender": "M",
+      "first name": "Ogi Darma Tena",
+      "last name": "",
+      "birthday": "2001",
+      "avatar": "https://i.imgur.com/9oDkD1h.png"
+    },
+    "rels": {
+      "parents": [
+        "0",
+        "0ddfc705-4688-465f-9a45-500acf4ed5c3"
+      ],
+      "spouses": [
+        "c1795032-2e1a-4717-9aeb-be78edbded29"
+      ]
+    }
+  },
+  {
+    "id": "8d477245-be15-4ac7-b0df-3f38e213f401",
+    "data": {
+      "gender": "M",
+      "first name": "Ica Ulan Dari",
+      "last name": "",
+      "birthday": "2007",
+      "avatar": "https://i.imgur.com/TFwmqGE.png"
+    },
+    "rels": {
+      "parents": [
+        "0",
+        "0ddfc705-4688-465f-9a45-500acf4ed5c3"
+      ]
+    }
+  },
+  {
+    "id": "c1795032-2e1a-4717-9aeb-be78edbded29",
+    "data": {
+      "gender": "F",
+      "first name": "Maya Trisandi",
+      "last name": "",
+      "birthday": "1999",
+      "avatar": "https://i.imgur.com/TToUQYg.png"
     },
     "rels": {
       "spouses": [
-        "Q462582",
-        "Q1987698"
-      ],
-      "children": [
-        "Q2217419"
-      ],
-      "parents": [
-        "Q3050463"
+        "18110d42-a660-4736-bb2c-7269c1b01513"
       ]
     }
   },
   {
-    "id": "Q462582",
+    "id": "057d1d02-c546-41f7-af06-b2c6353ea674",
     "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "Greek biologist and embryologist",
-      "label": "Pythias",
-      "image": null,
-      "gender": "F"
+      "gender": "M",
+      "first name": "Bapuk Sarnep Mama",
+      "last name": "",
+      "birthday": "1954",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "0ddfc705-4688-465f-9a45-500acf4ed5c3",
+        "b4e0d73c-1f31-4e3b-8985-9cc3ca33c435",
+        "9a9aebad-0823-4288-ae9d-86372d93ab4a",
+        "2f93ac7c-c9c3-497c-ac13-6c5743156888",
+        "ef8237e9-6f72-434b-b538-f5e3480141aa"
+      ],
+      "spouses": [
+        "0236e877-d62b-43bc-b274-288d0cfeaacc"
+      ]
+    }
+  },
+  {
+    "id": "0236e877-d62b-43bc-b274-288d0cfeaacc",
+    "data": {
+      "gender": "F",
+      "first name": "Bapuk Sarnep Mama",
+      "last name": "",
+      "birthday": "1958",
+      "avatar": "https://i.imgur.com/W8eo7Sv.png"
+    },
+    "rels": {
+      "children": [
+        "0ddfc705-4688-465f-9a45-500acf4ed5c3",
+        "b4e0d73c-1f31-4e3b-8985-9cc3ca33c435",
+        "9a9aebad-0823-4288-ae9d-86372d93ab4a",
+        "2f93ac7c-c9c3-497c-ac13-6c5743156888",
+        "ef8237e9-6f72-434b-b538-f5e3480141aa"
+      ],
+      "spouses": [
+        "057d1d02-c546-41f7-af06-b2c6353ea674"
+      ]
+    }
+  },
+  {
+    "id": "b4e0d73c-1f31-4e3b-8985-9cc3ca33c435",
+    "data": {
+      "gender": "M",
+      "first name": "Ajib Gandi",
+      "last name": "",
+      "birthday": "1978",
+      "avatar": "https://i.imgur.com/Hu4HKza.png"
+    },
+    "rels": {
+      "parents": [
+        "057d1d02-c546-41f7-af06-b2c6353ea674",
+        "0236e877-d62b-43bc-b274-288d0cfeaacc"
+      ],
+      "children": [
+        "f4c69914-cd87-4146-9a79-56e7d065698d",
+        "cb9513c2-da08-4927-8a60-b97122d01569",
+        "efe58b18-ec07-473a-b164-b0cef664d7fc"
+      ],
+      "spouses": [
+        "ffe9520f-0433-4c0b-8028-f0683092cd12"
+      ]
+    }
+  },
+  {
+    "id": "ffe9520f-0433-4c0b-8028-f0683092cd12",
+    "data": {
+      "gender": "F",
+      "first name": "Naka Ages",
+      "last name": "",
+      "birthday": "1980",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "f4c69914-cd87-4146-9a79-56e7d065698d",
+        "cb9513c2-da08-4927-8a60-b97122d01569",
+        "efe58b18-ec07-473a-b164-b0cef664d7fc"
+      ],
+      "spouses": [
+        "b4e0d73c-1f31-4e3b-8985-9cc3ca33c435"
+      ]
+    }
+  },
+  {
+    "id": "f4c69914-cd87-4146-9a79-56e7d065698d",
+    "data": {
+      "gender": "M",
+      "first name": "Ages Sarada Sati",
+      "last name": "",
+      "birthday": "2002",
+      "avatar": "https://i.imgur.com/GPSpEES.png"
+    },
+    "rels": {
+      "parents": [
+        "b4e0d73c-1f31-4e3b-8985-9cc3ca33c435",
+        "ffe9520f-0433-4c0b-8028-f0683092cd12"
+      ]
+    }
+  },
+  {
+    "id": "cb9513c2-da08-4927-8a60-b97122d01569",
+    "data": {
+      "gender": "M",
+      "first name": "Saka Dagami",
+      "last name": "",
+      "birthday": "2004",
+      "avatar": "https://i.imgur.com/A2mqISp.png"
+    },
+    "rels": {
+      "parents": [
+        "b4e0d73c-1f31-4e3b-8985-9cc3ca33c435",
+        "ffe9520f-0433-4c0b-8028-f0683092cd12"
+      ]
+    }
+  },
+  {
+    "id": "efe58b18-ec07-473a-b164-b0cef664d7fc",
+    "data": {
+      "gender": "F",
+      "first name": "Metri",
+      "last name": "",
+      "birthday": "2007",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "ffe9520f-0433-4c0b-8028-f0683092cd12",
+        "b4e0d73c-1f31-4e3b-8985-9cc3ca33c435"
+      ]
+    }
+  },
+  {
+    "id": "9a9aebad-0823-4288-ae9d-86372d93ab4a",
+    "data": {
+      "gender": "M",
+      "first name": "Yodianto",
+      "last name": "",
+      "birthday": "1982",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "0236e877-d62b-43bc-b274-288d0cfeaacc",
+        "057d1d02-c546-41f7-af06-b2c6353ea674"
+      ]
+    }
+  },
+  {
+    "id": "2f93ac7c-c9c3-497c-ac13-6c5743156888",
+    "data": {
+      "gender": "F",
+      "first name": "Naka Lia",
+      "last name": "",
+      "birthday": "1974",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "0236e877-d62b-43bc-b274-288d0cfeaacc",
+        "057d1d02-c546-41f7-af06-b2c6353ea674"
+      ]
+    }
+  },
+  {
+    "id": "ef8237e9-6f72-434b-b538-f5e3480141aa",
+    "data": {
+      "gender": "F",
+      "first name": "Dupeng",
+      "last name": "",
+      "birthday": "1991",
+      "avatar": "https://i.imgur.com/j7b3k38.png"
+    },
+    "rels": {
+      "parents": [
+        "057d1d02-c546-41f7-af06-b2c6353ea674",
+        "0236e877-d62b-43bc-b274-288d0cfeaacc"
+      ]
+    }
+  },
+  {
+    "id": "f6aa8771-6326-4813-a99d-6724471cd775",
+    "data": {
+      "gender": "M",
+      "first name": "Bapuk Kanyang mama",
+      "last name": "",
+      "birthday": "1930",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "a69c907f-fe58-4d39-8a9e-efd03159fce9",
+        "ecf19040-135f-4f6f-b45d-83b029e7afa6",
+        "cf5c27f0-3fa1-43bb-8f73-4a72808f8dfc",
+        "1f132925-9e6c-4dde-a564-fff1bbeaac9e",
+        "c99875fd-d8a5-45d8-9fcd-bf12cf4fb69a",
+        "9685431f-1933-4f14-b354-4855713df13b"
+      ],
+      "spouses": [
+        "f6905f1c-f769-4861-96f0-8dacca31c4e5"
+      ]
+    }
+  },
+  {
+    "id": "f6905f1c-f769-4861-96f0-8dacca31c4e5",
+    "data": {
+      "gender": "F",
+      "first name": "Bapuk Kanyang Nina",
+      "last name": "",
+      "birthday": "1940",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "a69c907f-fe58-4d39-8a9e-efd03159fce9",
+        "ecf19040-135f-4f6f-b45d-83b029e7afa6",
+        "cf5c27f0-3fa1-43bb-8f73-4a72808f8dfc",
+        "1f132925-9e6c-4dde-a564-fff1bbeaac9e",
+        "c99875fd-d8a5-45d8-9fcd-bf12cf4fb69a",
+        "9685431f-1933-4f14-b354-4855713df13b"
+      ],
+      "spouses": [
+        "f6aa8771-6326-4813-a99d-6724471cd775"
+      ]
+    }
+  },
+  {
+    "id": "ecf19040-135f-4f6f-b45d-83b029e7afa6",
+    "data": {
+      "gender": "F",
+      "first name": "Bapuk Sentok",
+      "last name": "",
+      "birthday": "1950",
+      "avatar": "https://i.imgur.com/r95TeIv.png"
+    },
+    "rels": {
+      "parents": [
+        "f6aa8771-6326-4813-a99d-6724471cd775",
+        "f6905f1c-f769-4861-96f0-8dacca31c4e5"
+      ],
+      "children": [
+        "ed6e540d-1e21-4707-b6f5-0684ed33b75a",
+        "c6b2b577-6342-45fd-96a5-20dc4b115c14",
+        "21300933-a38f-4936-a8da-82ff32cfc03f",
+        "9aec39d7-fd05-40d3-8a15-55c18dc6851e",
+        "70c02a1a-52bb-4580-9d09-301843bd2248"
+      ],
+      "spouses": [
+        "d2fd64bc-6e28-4d32-85dc-f0d1d6650351"
+      ]
+    }
+  },
+  {
+    "id": "cf5c27f0-3fa1-43bb-8f73-4a72808f8dfc",
+    "data": {
+      "gender": "F",
+      "first name": "Bapuk Rasinah",
+      "last name": "",
+      "birthday": "1999",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "f6aa8771-6326-4813-a99d-6724471cd775",
+        "f6905f1c-f769-4861-96f0-8dacca31c4e5"
+      ]
+    }
+  },
+  {
+    "id": "1f132925-9e6c-4dde-a564-fff1bbeaac9e",
+    "data": {
+      "gender": "F",
+      "first name": "Bapuk Maeng",
+      "last name": "",
+      "birthday": "1999",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "f6aa8771-6326-4813-a99d-6724471cd775",
+        "f6905f1c-f769-4861-96f0-8dacca31c4e5"
+      ]
+    }
+  },
+  {
+    "id": "c99875fd-d8a5-45d8-9fcd-bf12cf4fb69a",
+    "data": {
+      "gender": "F",
+      "first name": "Bapuk Ami",
+      "last name": "",
+      "birthday": "1999",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "f6aa8771-6326-4813-a99d-6724471cd775",
+        "f6905f1c-f769-4861-96f0-8dacca31c4e5"
+      ]
+    }
+  },
+  {
+    "id": "9685431f-1933-4f14-b354-4855713df13b",
+    "data": {
+      "gender": "M",
+      "first name": "Minarta",
+      "last name": "",
+      "birthday": "1999",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "f6aa8771-6326-4813-a99d-6724471cd775",
+        "f6905f1c-f769-4861-96f0-8dacca31c4e5"
+      ],
+      "children": [
+        "06f9ae1b-136c-4174-bc7d-0b08ced76559",
+        "3311912e-c387-48b2-b393-059f91406642"
+      ],
+      "spouses": [
+        "b799e3c9-188c-44f5-af45-c4f89b68d907"
+      ]
+    }
+  },
+  {
+    "id": "d2fd64bc-6e28-4d32-85dc-f0d1d6650351",
+    "data": {
+      "gender": "M",
+      "first name": "Bapuk Sentok Mama",
+      "last name": "",
+      "birthday": "1920",
+      "avatar": "https://i.imgur.com/k0sRlOV.png"
+    },
+    "rels": {
+      "children": [
+        "ed6e540d-1e21-4707-b6f5-0684ed33b75a",
+        "c6b2b577-6342-45fd-96a5-20dc4b115c14",
+        "21300933-a38f-4936-a8da-82ff32cfc03f",
+        "9aec39d7-fd05-40d3-8a15-55c18dc6851e",
+        "70c02a1a-52bb-4580-9d09-301843bd2248"
+      ],
+      "spouses": [
+        "ecf19040-135f-4f6f-b45d-83b029e7afa6"
+      ]
+    }
+  },
+  {
+    "id": "ed6e540d-1e21-4707-b6f5-0684ed33b75a",
+    "data": {
+      "gender": "M",
+      "first name": "Suliarno",
+      "last name": "",
+      "birthday": "1950",
+      "avatar": "https://i.imgur.com/2QsSylE.png"
+    },
+    "rels": {
+      "parents": [
+        "ecf19040-135f-4f6f-b45d-83b029e7afa6",
+        "d2fd64bc-6e28-4d32-85dc-f0d1d6650351"
+      ],
+      "children": [
+        "94e4ad0f-4189-45b5-be78-2fe1df94a3bc",
+        "395f6b71-2292-4696-8fa4-c49c357ce09d"
+      ],
+      "spouses": [
+        "5eb954d7-7af1-4f36-8b0d-71f1c65de891"
+      ]
+    }
+  },
+  {
+    "id": "c6b2b577-6342-45fd-96a5-20dc4b115c14",
+    "data": {
+      "gender": "F",
+      "first name": "Suwartini",
+      "last name": "",
+      "birthday": "1978",
+      "avatar": "https://i.imgur.com/rmZmQOe.png"
+    },
+    "rels": {
+      "parents": [
+        "ecf19040-135f-4f6f-b45d-83b029e7afa6",
+        "d2fd64bc-6e28-4d32-85dc-f0d1d6650351"
+      ],
+      "children": [
+        "732340d2-cd48-42e6-a59b-e900a35a778f",
+        "deb7f058-2cf5-4f24-b8de-2ac4bc38d18e",
+        "ccf323ff-ce56-46df-81ea-98e44b4e801e"
+      ],
+      "spouses": [
+        "3a90b948-97ff-46b0-9bb4-dc5be6e0adb7"
+      ]
+    }
+  },
+  {
+    "id": "21300933-a38f-4936-a8da-82ff32cfc03f",
+    "data": {
+      "gender": "M",
+      "first name": "Amak Tika",
+      "last name": "",
+      "birthday": "1999",
+      "avatar": "https://i.imgur.com/wKV4nPH.png"
+    },
+    "rels": {
+      "parents": [
+        "d2fd64bc-6e28-4d32-85dc-f0d1d6650351",
+        "ecf19040-135f-4f6f-b45d-83b029e7afa6"
+      ],
+      "children": [
+        "4626879b-5c35-4f74-8f82-86e099430dc3",
+        "96d0b873-d2bd-453c-85da-8cd07245560d"
+      ],
+      "spouses": [
+        "287708dc-b462-4388-b049-24fcf8e69ff1"
+      ]
+    }
+  },
+  {
+    "id": "9aec39d7-fd05-40d3-8a15-55c18dc6851e",
+    "data": {
+      "gender": "M",
+      "first name": "Amak Tiara",
+      "last name": "",
+      "birthday": "1980",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "d2fd64bc-6e28-4d32-85dc-f0d1d6650351",
+        "ecf19040-135f-4f6f-b45d-83b029e7afa6"
+      ]
+    }
+  },
+  {
+    "id": "70c02a1a-52bb-4580-9d09-301843bd2248",
+    "data": {
+      "gender": "M",
+      "first name": "Atna",
+      "last name": "",
+      "birthday": "1978",
+      "avatar": "https://i.imgur.com/GgEtlVZ.png"
+    },
+    "rels": {
+      "parents": [
+        "d2fd64bc-6e28-4d32-85dc-f0d1d6650351",
+        "ecf19040-135f-4f6f-b45d-83b029e7afa6"
+      ],
+      "children": [
+        "32bb5e25-d675-47e0-83af-db8425408051"
+      ],
+      "spouses": [
+        "3dcf7666-b1b7-447f-9b3a-1a14f132c308"
+      ]
+    }
+  },
+  {
+    "id": "5eb954d7-7af1-4f36-8b0d-71f1c65de891",
+    "data": {
+      "gender": "F",
+      "first name": "Inak Popi",
+      "last name": "",
+      "birthday": "1979",
+      "avatar": "https://i.imgur.com/2zJTAlQ.png"
+    },
+    "rels": {
+      "children": [
+        "94e4ad0f-4189-45b5-be78-2fe1df94a3bc",
+        "395f6b71-2292-4696-8fa4-c49c357ce09d"
+      ],
+      "spouses": [
+        "ed6e540d-1e21-4707-b6f5-0684ed33b75a"
+      ]
+    }
+  },
+  {
+    "id": "94e4ad0f-4189-45b5-be78-2fe1df94a3bc",
+    "data": {
+      "gender": "F",
+      "first name": "Popi Rahayu",
+      "last name": "",
+      "birthday": "1991",
+      "avatar": "https://i.imgur.com/2g9QCH8.png"
+    },
+    "rels": {
+      "parents": [
+        "ed6e540d-1e21-4707-b6f5-0684ed33b75a",
+        "5eb954d7-7af1-4f36-8b0d-71f1c65de891"
+      ],
+      "children": [
+        "b0589120-e7d8-436f-ad6c-32f831d9bd4f"
+      ],
+      "spouses": [
+        "9514d036-82e8-418f-8592-3beff291a028"
+      ]
+    }
+  },
+  {
+    "id": "395f6b71-2292-4696-8fa4-c49c357ce09d",
+    "data": {
+      "gender": "M",
+      "first name": "Adi Wijaya",
+      "last name": "",
+      "birthday": "1996",
+      "avatar": "https://i.imgur.com/2PYT1C3.png"
+    },
+    "rels": {
+      "parents": [
+        "ed6e540d-1e21-4707-b6f5-0684ed33b75a",
+        "5eb954d7-7af1-4f36-8b0d-71f1c65de891"
+      ],
+      "spouses": [
+        "a8ee7caf-e687-4c6c-a49f-aa1495c3d11c"
+      ]
+    }
+  },
+  {
+    "id": "287708dc-b462-4388-b049-24fcf8e69ff1",
+    "data": {
+      "gender": "F",
+      "first name": "Inak Tika",
+      "last name": "",
+      "birthday": "1967",
+      "avatar": "https://i.imgur.com/Q8J6Fbi.png"
+    },
+    "rels": {
+      "children": [
+        "4626879b-5c35-4f74-8f82-86e099430dc3",
+        "96d0b873-d2bd-453c-85da-8cd07245560d"
+      ],
+      "spouses": [
+        "21300933-a38f-4936-a8da-82ff32cfc03f"
+      ]
+    }
+  },
+  {
+    "id": "4626879b-5c35-4f74-8f82-86e099430dc3",
+    "data": {
+      "gender": "F",
+      "first name": "Tika",
+      "last name": "",
+      "birthday": "1997",
+      "avatar": "https://i.imgur.com/x7nQNyH.png"
+    },
+    "rels": {
+      "parents": [
+        "21300933-a38f-4936-a8da-82ff32cfc03f",
+        "287708dc-b462-4388-b049-24fcf8e69ff1"
+      ]
+    }
+  },
+  {
+    "id": "96d0b873-d2bd-453c-85da-8cd07245560d",
+    "data": {
+      "gender": "M",
+      "first name": "Dandi Pratama",
+      "last name": "",
+      "birthday": "1998",
+      "avatar": "https://i.imgur.com/34de0RH.png"
+    },
+    "rels": {
+      "parents": [
+        "21300933-a38f-4936-a8da-82ff32cfc03f",
+        "287708dc-b462-4388-b049-24fcf8e69ff1"
+      ]
+    }
+  },
+  {
+    "id": "3dcf7666-b1b7-447f-9b3a-1a14f132c308",
+    "data": {
+      "gender": "F",
+      "first name": "Inak Roby",
+      "last name": "",
+      "birthday": "1980",
+      "avatar": "https://i.imgur.com/5sqqJSE.png"
+    },
+    "rels": {
+      "children": [
+        "32bb5e25-d675-47e0-83af-db8425408051"
+      ],
+      "spouses": [
+        "70c02a1a-52bb-4580-9d09-301843bd2248"
+      ]
+    }
+  },
+  {
+    "id": "32bb5e25-d675-47e0-83af-db8425408051",
+    "data": {
+      "gender": "M",
+      "first name": "Roby Nyana Putra",
+      "last name": "",
+      "birthday": "2000",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "70c02a1a-52bb-4580-9d09-301843bd2248",
+        "3dcf7666-b1b7-447f-9b3a-1a14f132c308"
+      ]
+    }
+  },
+  {
+    "id": "3a90b948-97ff-46b0-9bb4-dc5be6e0adb7",
+    "data": {
+      "gender": "M",
+      "first name": "Rusti",
+      "last name": "",
+      "birthday": "1961",
+      "avatar": "https://i.imgur.com/Ek8H6N0.png"
+    },
+    "rels": {
+      "children": [
+        "732340d2-cd48-42e6-a59b-e900a35a778f",
+        "deb7f058-2cf5-4f24-b8de-2ac4bc38d18e",
+        "ccf323ff-ce56-46df-81ea-98e44b4e801e"
+      ],
+      "spouses": [
+        "c6b2b577-6342-45fd-96a5-20dc4b115c14"
+      ]
+    }
+  },
+  {
+    "id": "732340d2-cd48-42e6-a59b-e900a35a778f",
+    "data": {
+      "gender": "F",
+      "first name": "Hendri",
+      "last name": "",
+      "birthday": "1993",
+      "avatar": "https://i.imgur.com/siEUHeN.png"
+    },
+    "rels": {
+      "parents": [
+        "c6b2b577-6342-45fd-96a5-20dc4b115c14",
+        "3a90b948-97ff-46b0-9bb4-dc5be6e0adb7"
+      ]
+    }
+  },
+  {
+    "id": "deb7f058-2cf5-4f24-b8de-2ac4bc38d18e",
+    "data": {
+      "gender": "F",
+      "first name": "Lady Diana",
+      "last name": "",
+      "birthday": "1995",
+      "avatar": "https://i.imgur.com/gSfIwhf.png"
+    },
+    "rels": {
+      "parents": [
+        "c6b2b577-6342-45fd-96a5-20dc4b115c14",
+        "3a90b948-97ff-46b0-9bb4-dc5be6e0adb7"
+      ]
+    }
+  },
+  {
+    "id": "ccf323ff-ce56-46df-81ea-98e44b4e801e",
+    "data": {
+      "gender": "F",
+      "first name": "Maya Trisandi",
+      "last name": "",
+      "birthday": "1999",
+      "avatar": "https://i.imgur.com/TToUQYg.png"
+    },
+    "rels": {
+      "parents": [
+        "3a90b948-97ff-46b0-9bb4-dc5be6e0adb7",
+        "c6b2b577-6342-45fd-96a5-20dc4b115c14"
+      ]
+    }
+  },
+  {
+    "id": "b799e3c9-188c-44f5-af45-c4f89b68d907",
+    "data": {
+      "gender": "F",
+      "first name": "Inak Mira",
+      "last name": "",
+      "birthday": "1970",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "06f9ae1b-136c-4174-bc7d-0b08ced76559",
+        "3311912e-c387-48b2-b393-059f91406642"
+      ],
+      "spouses": [
+        "9685431f-1933-4f14-b354-4855713df13b"
+      ]
+    }
+  },
+  {
+    "id": "06f9ae1b-136c-4174-bc7d-0b08ced76559",
+    "data": {
+      "gender": "F",
+      "first name": "Mira Wati",
+      "last name": "",
+      "birthday": "1997",
+      "avatar": "https://i.imgur.com/d73bQhS.png"
+    },
+    "rels": {
+      "parents": [
+        "9685431f-1933-4f14-b354-4855713df13b",
+        "b799e3c9-188c-44f5-af45-c4f89b68d907"
+      ]
+    }
+  },
+  {
+    "id": "3311912e-c387-48b2-b393-059f91406642",
+    "data": {
+      "gender": "M",
+      "first name": "Bayu Nata",
+      "last name": "",
+      "birthday": "2003",
+      "avatar": "https://i.imgur.com/n4TtTNT.png"
+    },
+    "rels": {
+      "parents": [
+        "9685431f-1933-4f14-b354-4855713df13b",
+        "b799e3c9-188c-44f5-af45-c4f89b68d907"
+      ]
+    }
+  },
+  {
+    "id": "9514d036-82e8-418f-8592-3beff291a028",
+    "data": {
+      "gender": "M",
+      "first name": "Sopian",
+      "last name": "",
+      "birthday": "1989",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "b0589120-e7d8-436f-ad6c-32f831d9bd4f"
+      ],
+      "spouses": [
+        "94e4ad0f-4189-45b5-be78-2fe1df94a3bc"
+      ]
+    }
+  },
+  {
+    "id": "b0589120-e7d8-436f-ad6c-32f831d9bd4f",
+    "data": {
+      "gender": "M",
+      "first name": "Dirandra",
+      "last name": "",
+      "birthday": "2020",
+      "avatar": ""
+    },
+    "rels": {
+      "parents": [
+        "94e4ad0f-4189-45b5-be78-2fe1df94a3bc",
+        "9514d036-82e8-418f-8592-3beff291a028"
+      ]
+    }
+  },
+  {
+    "id": "a8ee7caf-e687-4c6c-a49f-aa1495c3d11c",
+    "data": {
+      "gender": "F",
+      "first name": "Verlina Panna",
+      "last name": "",
+      "birthday": "1999",
+      "avatar": "https://i.imgur.com/CjhHtLh.png"
     },
     "rels": {
       "spouses": [
-        "Q868"
-      ],
-      "parents": [
-        "Q948620"
-      ]
-    }
-  },
-  {
-    "id": "Q2217419",
-    "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "Ancient Greek philosopher, son of Aristotle",
-      "label": "Nicomachus",
-      "image": null,
-      "gender": "M"
-    },
-    "rels": {
-      "parents": [
-        "Q868",
-        "Q1987698"
-      ]
-    }
-  },
-  {
-    "id": "Q3050463",
-    "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "father of Aristotle",
-      "label": "Nicomachus",
-      "image": null,
-      "gender": "M"
-    },
-    "rels": {
-      "children": [
-        "Q868",
-        "Q4790690"
-      ]
-    }
-  },
-  {
-    "id": "Q1987698",
-    "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "Aristotle's lover",
-      "label": "Herpyllis",
-      "image": null,
-      "gender": "F"
-    },
-    "rels": {
-      "spouses": [
-        "Q868"
-      ],
-      "children": [
-        "Q2217419"
-      ]
-    }
-  },
-  {
-    "id": "Q948620",
-    "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "Aristotle's father in law",
-      "label": "Hermias of Atarneus",
-      "image": null,
-      "gender": "M"
-    },
-    "rels": {
-      "children": [
-        "Q462582"
-      ]
-    }
-  },
-  {
-    "id": "Q4790690",
-    "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "sister of Aristotle",
-      "label": "Arimneste",
-      "image": null,
-      "gender": "F"
-    },
-    "rels": {
-      "parents": [
-        "Q3050463"
+        "395f6b71-2292-4696-8fa4-c49c357ce09d"
       ]
     }
   }

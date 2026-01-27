@@ -12,6 +12,7 @@
      "rels": {
       "children":[
         "OGI",
+        "MAYA"
       ]
     },
     "main": false
@@ -32,6 +33,7 @@
       ],
       "children":[
         "OGI",
+        "MAYA"
       ]
     },
     "main": false

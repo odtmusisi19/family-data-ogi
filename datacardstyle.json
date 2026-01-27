@@ -65,7 +65,10 @@
       "avatar": "https://i.imgur.com/y4gUIHQ.png",
       "gender": "M"
     },
-    "rels": {},
+    "rels": {
+      "father": "satriadi",
+      "mother": "sahni",
+    },
     "main": false
   },
   

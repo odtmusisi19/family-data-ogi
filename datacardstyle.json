@@ -52,10 +52,6 @@
       "spouses": [
         "MAYA"
       ],
-      "children":[
-        "junior",
-        "juniro"
-      ]
     },
     "main": false
   },
@@ -69,45 +65,8 @@
       "avatar": "https://i.imgur.com/y4gUIHQ.png",
       "gender": "M"
     },
-    "rels": {
-      "children":[
-        "junior",
-        "juniro"
-      ]
-    },
+    "rels": {},
     "main": false
   },
-  {
-    "id": "junior",
-    "data": {
-      "fn": "Christian",
-      "ln": "",
-      "desc": "King of Denmark from 1863 to 1906",
-      "label": "Junior",
-      "avatar": "https://i.imgur.com/y4gUIHQ.png",
-      "gender": "M"
-    },
-    "rels": {
-      "father":"OGI",
-      "mother":"MAYA",
-    },
-    "main": false
-  },
-  {
-    "id": "juniro",
-    "data": {
-      "fn": "Christian",
-      "ln": "",
-      "desc": "King of Denmark from 1863 to 1906",
-      "label": "Juniro",
-      "avatar": "https://i.imgur.com/y4gUIHQ.png",
-      "gender": "M"
-    },
-    "rels": {
-      "father":"OGI",
-      "mother":"MAYA",
-    },
-    "main": false
-  }
-
+  
 ]

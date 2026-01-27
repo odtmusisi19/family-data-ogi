@@ -1,4 +1,21 @@
 [
+     {
+    "id": "sahni",
+    "data": {
+      "fn": "Christian",
+      "ln": "",
+      "desc": "King of Denmark from 1863 to 1906",
+      "label": "Sahni",
+      "avatar": "https://i.imgur.com/y4gUIHQ.png",
+      "gender": "M"
+    },
+     "rels": {
+      "children":[
+        "OGI",
+      ]
+    },
+    "main": false
+  },
     {
     "id": "satriadi",
     "data": {

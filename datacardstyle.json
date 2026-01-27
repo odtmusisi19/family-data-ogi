@@ -1,5 +1,25 @@
 [
     {
+    "id": "satriadi",
+    "data": {
+      "fn": "Christian",
+      "ln": "",
+      "desc": "King of Denmark from 1863 to 1906",
+      "label": "Satriadi Gotama",
+      "avatar": "https://i.imgur.com/y4gUIHQ.png",
+      "gender": "M"
+    },
+     "rels": {
+      "spouses": [
+        "sahni"
+      ],
+      "children":[
+        "OGI",
+      ]
+    },
+    "main": false
+  },
+    {
     "id": "OGI",
     "data": {
       "fn": "Christian",
@@ -10,8 +30,14 @@
       "gender": "M"
     },
      "rels": {
+      "father": "satriadi",
+      "mother": "sahni",
       "spouses": [
         "MAYA"
+      ],
+      "children":[
+        "junior",
+        "juniro"
       ]
     },
     "main": false
@@ -26,7 +52,45 @@
       "avatar": "https://i.imgur.com/y4gUIHQ.png",
       "gender": "M"
     },
-    "rels": {},
+    "rels": {
+      "children":[
+        "junior",
+        "juniro"
+      ]
+    },
+    "main": false
+  },
+  {
+    "id": "junior",
+    "data": {
+      "fn": "Christian",
+      "ln": "",
+      "desc": "King of Denmark from 1863 to 1906",
+      "label": "Junior",
+      "avatar": "https://i.imgur.com/y4gUIHQ.png",
+      "gender": "M"
+    },
+    "rels": {
+      "father":"OGI",
+      "mother":"MAYA",
+    },
+    "main": false
+  },
+  {
+    "id": "juniro",
+    "data": {
+      "fn": "Christian",
+      "ln": "",
+      "desc": "King of Denmark from 1863 to 1906",
+      "label": "Juniro",
+      "avatar": "https://i.imgur.com/y4gUIHQ.png",
+      "gender": "M"
+    },
+    "rels": {
+      "father":"OGI",
+      "mother":"MAYA",
+    },
     "main": false
   }
+
 ]

@@ -12,7 +12,6 @@
      "rels": {
       "children":[
         "OGI",
-        "MAYA"
       ]
     },
     "main": false
@@ -32,8 +31,7 @@
         "sahni"
       ],
       "children":[
-        "OGI",
-        "MAYA"
+        "OGI"
       ]
     },
     "main": false
@@ -49,25 +47,6 @@
       "gender": "M"
     },
      "rels": {
-      "father": "satriadi",
-      "mother": "sahni",
-      "spouses": [
-        "MAYA"
-      ],
-    },
-    "main": false
-  },
-  {
-    "id": "MAYA",
-    "data": {
-      "fn": "Christian",
-      "ln": "",
-      "desc": "King of Denmark from 1863 to 1906",
-      "label": "Maya Trisandi",
-      "avatar": "https://i.imgur.com/y4gUIHQ.png",
-      "gender": "M"
-    },
-    "rels": {
       "father": "satriadi",
       "mother": "sahni",
     },

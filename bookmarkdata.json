@@ -13,12 +13,14 @@
       {
         "name": "Sylva Identity Discovery (T)",
         "type": "url",
-        "url": "https://sylva.pfeister.dev/"
+        "url": "https://sylva.pfeister.dev/",
+        "description":"ini adalah tooltips"
       },
       {
         "name": "Names Directory",
         "type": "url",
-        "url": "https://namesdir.com/"
+        "url": "https://namesdir.com/",
+        "description":"ini adalah tooltips"
       }]
     },
     {
@@ -28,12 +30,14 @@
       {
         "name": "Amazon Usernames (M)",
         "type": "url",
-        "url": "https://www.google.com/search?q=site:amazon.com+%3Cusername%3E"
+        "url": "https://www.google.com/search?q=site:amazon.com+%3Cusername%3E",
+        "description":"ini adalah tooltips"
       },
       {
         "name": "MIT PGP Key Server",
         "type": "url",
-        "url": "http://pgp.mit.edu/"
+        "url": "http://pgp.mit.edu/",
+        "description":"ini adalah tooltips"
       }]
     }]
   }
